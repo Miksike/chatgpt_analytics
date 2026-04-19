@@ -1,0 +1,19 @@
+# Python cache / env
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Large and generated data
+raw_export/
+working_data/
+reports/
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
